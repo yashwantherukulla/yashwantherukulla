@@ -1,4 +1,4 @@
-<h1>Heyya, I'm Yashwanth</h1>
+<h1>Heyya!!, I'm Yashwanth!</h1>
 <h3>An aspiring ML Research Engineer</h3>
 
 🔭 I’m currently implementing all sorts of ML papers
