@@ -21,6 +21,3 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=yashwantherukulla&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&amp"/>
 </div>  
-
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/yashwantherukulla/highlights)
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/yashwantherukulla/quirk)
