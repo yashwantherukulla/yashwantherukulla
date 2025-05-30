@@ -9,6 +9,8 @@
 
 📝 I regularly write articles on my [blog](https://yashwantherukulla.github.io/)
 
+🧑 You can checkout more about me on my [portfolio](https://yashwantherukulla.github.io/portfolio)
+
 ⚡ Fun fact, I used to be a professional pianist and an amateur artist
 
 📫 You can reach me on
