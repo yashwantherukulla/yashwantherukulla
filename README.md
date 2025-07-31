@@ -7,7 +7,7 @@
 
 🤝 I’m planning to learn about World Models, More Diffusion, DRL, and MLOps (ik these are a lot, but imma do them anyways)
 
-📝 I regularly write articles on my [blog](https://yashwantherukulla.github.io/)
+📝 I regularly write articles on my [blog](https://glorious-potato-19.notion.site/Blogs-1e6ffa7f40c48099be24e3653b5e9d16) | [Notes](https://yashwantherukulla.github.io/)
 
 🧑 You can checkout more about me on my [portfolio](https://yashwantherukulla.github.io/portfolio)
 
