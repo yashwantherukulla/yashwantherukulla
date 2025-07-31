@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning how Stable Diffusion works in full detail (including all the math!)
 
-🤝 I’m planning to learn CUDA, DRL, Distributed Learning, and MLOps (ik these are a lot, but imma do them anyways)
+🤝 I’m planning to learn about World Models, More Diffusion, DRL, and MLOps (ik these are a lot, but imma do them anyways)
 
 📝 I regularly write articles on my [blog](https://yashwantherukulla.github.io/)
 
